@@ -1,0 +1,154 @@
+{
+  "nav": {
+    "features": "特徴",
+    "about": "会社概要",
+    "services": "サービス",
+    "gallery": "ギャラリー",
+    "testimonials": "お客様の声",
+    "team": "チーム",
+    "contact": "お問い合わせ"
+  },
+  "header": {
+    "title": "TAEBON",
+    "subtitle": "From the Root. 基礎から始まり、TAEBONはシームレスなグローバル貿易、最先端のソフトウェアソリューション、革新的な韓国語教育プラットフォームを提供しています。"
+  },
+  "about": {
+    "title": "会社概要",
+    "paragraph": "TAEBONは、国際貿易、ソフトウェアソリューション、韓国語教育、グローバルコンサルティングサービスにおける信頼できるパートナーです。私たちは'From the Root'の原則に基づき、すべての分野で最高の基礎サービスを提供しています。",
+    "why": {
+      "title": "選ばれる理由",
+      "list1": ["国際貿易における深い専門知識", "革新的なソフトウェアソリューション", "総合的な韓国語教育プラットフォーム", "カスタマイズされたビジネスコンサルティング"],
+      "list2": ["多言語サポート（英語、中国語、ロシア語、日本語）", "カスタマイズされたOEM/ODMソリューション", "観光と留学のコンサルティング", "韓国でのビジネス展開のための法的サポート"]
+    }
+  },
+  "services": {
+    "title": "サービス",
+    "items": [
+      {
+        "name": "国際貿易",
+        "text": "多言語対応による円滑なグローバル貿易サービスの提供"
+      },
+      {
+        "name": "ソフトウェアソリューション",
+        "text": "様々なビジネスニーズに対応したカスタマイズされたソフトウェアと技術ソリューション"
+      },
+      {
+        "name": "韓国語教育プラットフォーム",
+        "text": "'ベラコリアン'プラットフォームを通じた総合的な韓国語学習リソース"
+      },
+      {
+        "name": "観光・留学",
+        "text": "韓国での観光と留学機会に関するカスタマイズされたコンサルティング"
+      },
+      {
+        "name": "法務・ビジネスコンサルティング",
+        "text": "韓国での事業設立に関する法的サポート"
+      },
+      {
+        "name": "韓国化粧品OEM/ODM",
+        "text": "ロシアとCIS地域向けの韓国化粧品OEM/ODM専門"
+      }
+    ]
+  },
+  "features": {
+    "title": "特徴",
+    "items": [
+      {
+        "title": "多言語コミュニケーション",
+        "text": "英語、中国語、ロシア語、日本語対応"
+      },
+      {
+        "title": "ビジネス専門性",
+        "text": "貿易、ソフトウェア、教育分野での豊富な経験"
+      },
+      {
+        "title": "革新的なソリューション",
+        "text": "各クライアントに合わせたカスタマイズ戦略"
+      },
+      {
+        "title": "信頼できるパートナーシップ",
+        "text": "信頼と透明性に基づく長期的なパートナーシップの構築"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "ギャラリー",
+    "subtitle": "TAEBONの多様なプロジェクトとサービスをご紹介します",
+    "items": [
+      {
+        "title": "グローバル貿易ソリューション",
+        "largeImage": "img/portfolio/01-large.jpg",
+        "smallImage": "img/portfolio/01-small.jpg"
+      },
+      {
+        "title": "ソフトウェア開発",
+        "largeImage": "img/portfolio/02-large.jpg",
+        "smallImage": "img/portfolio/02-small.jpg"
+      },
+      {
+        "title": "韓国語教育プラットフォーム",
+        "largeImage": "img/portfolio/03-large.jpg",
+        "smallImage": "img/portfolio/03-small.jpg"
+      },
+      {
+        "title": "ビジネスコンサルティング",
+        "largeImage": "img/portfolio/04-large.jpg",
+        "smallImage": "img/portfolio/04-small.jpg"
+      },
+      {
+        "title": "観光サービス",
+        "largeImage": "img/portfolio/05-large.jpg",
+        "smallImage": "img/portfolio/05-small.jpg"
+      },
+      {
+        "title": "化粧品OEM/ODM",
+        "largeImage": "img/portfolio/06-large.jpg",
+        "smallImage": "img/portfolio/06-small.jpg"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "お客様の声",
+    "items": [
+      {
+        "text": "TAEBONは比類のないプロフェッショナリズムで私たちの貿易業務を効率化してくれました。",
+        "name": "アレックス・ジョンソン、CEO"
+      },
+      {
+        "text": "TAEBONが提供するソフトウェアソリューションは、私たちのビジネスに革命をもたらしました。強くお勧めします！",
+        "name": "サラ・リー、技術責任者"
+      }
+    ]
+  },
+  "team": {
+    "title": "チーム紹介",
+    "members": [
+      {
+        "image": "img/team/01.png",
+        "name": "オルディ",
+        "job": "CEO、ソフトウェア開発者"
+      },
+      {
+        "image": "img/team/03.png",
+        "name": "ベラ",
+        "job": "韓国語教育、観光、コンサルティング専門家"
+      },
+      {
+        "image": "img/team/02.png",
+        "name": "ケビン",
+        "job": "貿易専門家、法務専門家"
+      },
+      {
+        "image": "img/team/04.png",
+        "name": "ナザ",
+        "job": "ロシア・CIS貿易専門家"
+      }
+    ]
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "address": "韓国ソウル市1234番地",
+    "phone": "+82 123 456 7890",
+    "email": "info@taebon.com"
+  }
+}

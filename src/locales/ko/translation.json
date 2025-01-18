@@ -1,0 +1,154 @@
+{
+  "nav": {
+    "features": "특징",
+    "about": "소개",
+    "services": "서비스",
+    "gallery": "갤러리",
+    "testimonials": "후기",
+    "team": "팀",
+    "contact": "연락처"
+  },
+  "header": {
+    "title": "TAEBON",
+    "subtitle": "From the Root. 기초부터 시작하여, TAEBON은 원활한 글로벌 무역, 최첨단 소프트웨어 솔루션, 혁신적인 한국어 교육 플랫폼을 제공합니다."
+  },
+  "about": {
+    "title": "회사 소개",
+    "paragraph": "TAEBON은 국제 무역, 소프트웨어 솔루션, 한국어 교육 및 글로벌 컨설팅 서비스를 제공하는 신뢰할 수 있는 파트너입니다. 우리는 'From the Root' 원칙으로 모든 분야에서 최고의 기초 서비스를 보장합니다.",
+    "why": {
+      "title": "선택해야 하는 이유",
+      "list1": ["국제 무역 분야의 깊은 전문성", "혁신적인 소프트웨어 솔루션", "종합적인 한국어 교육 플랫폼", "맞춤형 비즈니스 컨설팅 서비스"],
+      "list2": ["다국어 지원 (영어, 중국어, 러시아어, 일본어)", "맞춤형 OEM/ODM 솔루션", "관광 및 유학 컨설팅", "한국 비즈니스 확장을 위한 법률 지원"]
+    }
+  },
+  "services": {
+    "title": "서비스",
+    "items": [
+      {
+        "name": "국제 무역",
+        "text": "다국어 지원을 통한 원활한 글로벌 무역 서비스 제공"
+      },
+      {
+        "name": "소프트웨어 솔루션",
+        "text": "다양한 비즈니스 요구에 맞는 맞춤형 소프트웨어 및 기술 솔루션 제공"
+      },
+      {
+        "name": "한국어 교육 플랫폼",
+        "text": "'베라 코리안' 플랫폼을 통한 종합적인 한국어 학습 자원 제공"
+      },
+      {
+        "name": "관광 및 유학 컨설팅",
+        "text": "한국 관광 및 유학 기회에 대한 맞춤형 컨설팅 제공"
+      },
+      {
+        "name": "법률 및 비즈니스 컨설팅",
+        "text": "한국 내 사업 설립을 위한 법률 자문 지원"
+      },
+      {
+        "name": "한국 화장품 OEM/ODM",
+        "text": "러시아 및 CIS 지역을 위한 한국 화장품 OEM/ODM 전문"
+      }
+    ]
+  },
+  "features": {
+    "title": "특징",
+    "items": [
+      {
+        "title": "다국어 커뮤니케이션",
+        "text": "영어, 중국어, 러시아어, 일본어 지원"
+      },
+      {
+        "title": "비즈니스 전문성",
+        "text": "무역, 소프트웨어, 교육 분야의 풍부한 경험"
+      },
+      {
+        "title": "혁신적인 솔루션",
+        "text": "각 고객을 위한 맞춤형 전략"
+      },
+      {
+        "title": "신뢰할 수 있는 파트너십",
+        "text": "신뢰와 투명성을 바탕으로 한 장기적인 파트너십 구축"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "갤러리",
+    "subtitle": "TAEBON의 다양한 프로젝트와 서비스를 소개합니다",
+    "items": [
+      {
+        "title": "글로벌 무역 솔루션",
+        "largeImage": "img/portfolio/01-large.jpg",
+        "smallImage": "img/portfolio/01-small.jpg"
+      },
+      {
+        "title": "소프트웨어 개발",
+        "largeImage": "img/portfolio/02-large.jpg",
+        "smallImage": "img/portfolio/02-small.jpg"
+      },
+      {
+        "title": "한국어 교육 플랫폼",
+        "largeImage": "img/portfolio/03-large.jpg",
+        "smallImage": "img/portfolio/03-small.jpg"
+      },
+      {
+        "title": "비즈니스 컨설팅",
+        "largeImage": "img/portfolio/04-large.jpg",
+        "smallImage": "img/portfolio/04-small.jpg"
+      },
+      {
+        "title": "관광 서비스",
+        "largeImage": "img/portfolio/05-large.jpg",
+        "smallImage": "img/portfolio/05-small.jpg"
+      },
+      {
+        "title": "화장품 OEM/ODM",
+        "largeImage": "img/portfolio/06-large.jpg",
+        "smallImage": "img/portfolio/06-small.jpg"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "고객 후기",
+    "items": [
+      {
+        "text": "TAEBON은 최고의 전문성으로 우리의 무역 운영을 효율화하는데 도움을 주었습니다.",
+        "name": "알렉스 존슨, CEO"
+      },
+      {
+        "text": "TAEBON이 제공한 소프트웨어 솔루션으로 우리 비즈니스가 혁신적으로 변화했습니다. 강력 추천합니다!",
+        "name": "사라 리, 기술 책임자"
+      }
+    ]
+  },
+  "team": {
+    "title": "팀 소개",
+    "members": [
+      {
+        "name": "올디",
+        "job": "CEO, 소프트웨어 개발자",
+        "image": "img/team/01.png"
+      },
+      {
+        "name": "베라",
+        "job": "한국어 교육, 관광, 컨설팅 전문가",
+        "image": "img/team/03.png"
+      },
+      {
+        "name": "케빈",
+        "job": "무역 전문가, 법률 전문가",
+        "image": "img/team/02.png"
+      },
+      {
+        "name": "나자",
+        "job": "러시아, CIS 무역 전문가",
+        "image": "img/team/04.png"
+      }
+    ]
+  },
+  "contact": {
+    "title": "연락처",
+    "address": "서울특별시 1234번지",
+    "phone": "+82 123 456 7890",
+    "email": "info@taebon.com"
+  }
+}

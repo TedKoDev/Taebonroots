@@ -1,0 +1,154 @@
+{
+  "nav": {
+    "features": "Features",
+    "about": "About",
+    "services": "Services",
+    "gallery": "Gallery",
+    "testimonials": "Testimonials",
+    "team": "Team",
+    "contact": "Contact"
+  },
+  "header": {
+    "title": "TAEBON",
+    "subtitle": "From the Root. Starting from the foundation, TAEBON excels in seamless global trade, cutting-edge software solutions, and innovative Korean education platforms."
+  },
+  "about": {
+    "title": "About Us",
+    "paragraph": "TAEBON is your trusted partner for international trade, software solutions, Korean education, and global consulting services. We operate with the principle of 'From the Root' to ensure the best foundational services in every sector we work in.",
+    "why": {
+      "title": "Why Choose Us",
+      "list1": ["Deep expertise in international trade", "Innovative software solutions", "Comprehensive Korean education platform", "Tailored business consulting services"],
+      "list2": ["Multilingual support (English, Chinese, Russian, Japanese)", "Customized OEM/ODM solutions", "Tourism and study abroad consultancy", "Legal support for Korean business expansion"]
+    }
+  },
+  "services": {
+    "title": "Services",
+    "items": [
+      {
+        "name": "International Trade",
+        "text": "Providing seamless global trade services with multilingual support"
+      },
+      {
+        "name": "Software Solutions",
+        "text": "Delivering customized software and technology solutions for various business needs"
+      },
+      {
+        "name": "Korean Education Platform",
+        "text": "Offering comprehensive Korean learning resources through 'Bera Korean' platform"
+      },
+      {
+        "name": "Tourism & Study Abroad",
+        "text": "Providing customized consultancy for Korean tourism and study opportunities"
+      },
+      {
+        "name": "Legal & Business Consulting",
+        "text": "Supporting legal consultation for business establishment in Korea"
+      },
+      {
+        "name": "Korean Cosmetics OEM/ODM",
+        "text": "Specializing in Korean cosmetics OEM/ODM for Russia and CIS regions"
+      }
+    ]
+  },
+  "features": {
+    "title": "Features",
+    "items": [
+      {
+        "title": "Multilingual Communication",
+        "text": "Support in English, Chinese, Russian, and Japanese"
+      },
+      {
+        "title": "Business Expertise",
+        "text": "Rich experience in trade, software, and education"
+      },
+      {
+        "title": "Innovative Solutions",
+        "text": "Customized strategies for each client"
+      },
+      {
+        "title": "Reliable Partnership",
+        "text": "Building long-term partnerships based on trust and transparency"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Gallery",
+    "subtitle": "Explore TAEBON's diverse projects and services",
+    "items": [
+      {
+        "title": "Global Trade Solutions",
+        "largeImage": "img/portfolio/01-large.jpg",
+        "smallImage": "img/portfolio/01-small.jpg"
+      },
+      {
+        "title": "Software Development",
+        "largeImage": "img/portfolio/02-large.jpg",
+        "smallImage": "img/portfolio/02-small.jpg"
+      },
+      {
+        "title": "Korean Education Platform",
+        "largeImage": "img/portfolio/03-large.jpg",
+        "smallImage": "img/portfolio/03-small.jpg"
+      },
+      {
+        "title": "Business Consulting",
+        "largeImage": "img/portfolio/04-large.jpg",
+        "smallImage": "img/portfolio/04-small.jpg"
+      },
+      {
+        "title": "Tourism Services",
+        "largeImage": "img/portfolio/05-large.jpg",
+        "smallImage": "img/portfolio/05-small.jpg"
+      },
+      {
+        "title": "Cosmetics OEM/ODM",
+        "largeImage": "img/portfolio/06-large.jpg",
+        "smallImage": "img/portfolio/06-small.jpg"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Testimonials",
+    "items": [
+      {
+        "text": "TAEBON helped us streamline our trade operations with unmatched professionalism.",
+        "name": "Alex Johnson, CEO"
+      },
+      {
+        "text": "The software solutions provided by TAEBON have revolutionized our business. Highly recommend!",
+        "name": "Sarah Lee, Tech Lead"
+      }
+    ]
+  },
+  "team": {
+    "title": "Our Team",
+    "members": [
+      {
+        "image": "img/team/01.png",
+        "name": "Ordi",
+        "job": "CEO, Software Developer"
+      },
+      {
+        "image": "img/team/03.png",
+        "name": "Bera",
+        "job": "Korean Education, Tourism, Consulting Expert"
+      },
+      {
+        "image": "img/team/02.png",
+        "name": "Kevin",
+        "job": "Trade Specialist,  Legal Expert"
+      },
+      {
+        "image": "img/team/04.png",
+        "name": "Naza",
+        "job": "Russian & CIS Trade Expert"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "address": "1234 Seoul Street, Seoul, South Korea",
+    "phone": "+82 123 456 7890",
+    "email": "info@taebon.com"
+  }
+}
