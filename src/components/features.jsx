@@ -7,39 +7,42 @@ export const Features = (props) => {
   return (
     <div id="features" className="text-center">
       <div className="container">
-        <div className="col-md-10 col-md-offset-1 section-title">
+        <div className="section-title">
           <h2>{t("features.title")}</h2>
         </div>
-        <div className="row" style={{ display: "flex", flexWrap: "wrap" }}>
+        <div className="row">
           {props.data
             ? props.data.map((d, i) => (
                 <div
                   key={i}
-                  className="col-xs-6 col-md-3"
+                  className="col-xs-12 col-sm-6 col-md-3"
                   style={{
                     marginBottom: "30px",
-                    display: "flex",
-                    flexDirection: "column",
-                    alignItems: "center",
                   }}
                 >
                   <div
                     style={{
-                      height: "100%",
-                      display: "flex",
-                      flexDirection: "column",
-                      alignItems: "center",
-                      justifyContent: "flex-start",
                       padding: "0 10px",
+                      maxWidth: "300px",
+                      margin: "0 auto",
                     }}
                   >
                     <i className={d.icon}></i>
-                    <h3>{t(`features.items.${i}.title`)}</h3>
+                    <h3
+                      style={{
+                        fontSize: "18px",
+                        marginBottom: "15px",
+                        wordBreak: "keep-all",
+                      }}
+                    >
+                      {t(`features.items.${i}.title`)}
+                    </h3>
                     <p
                       style={{
+                        fontSize: "14px",
+                        lineHeight: "1.6",
                         wordBreak: "keep-all",
-                        wordWrap: "break-word",
-                        flex: 1,
+                        margin: "0",
                       }}
                     >
                       {t(`features.items.${i}.text`)}

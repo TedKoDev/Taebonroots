@@ -15,7 +15,19 @@ export const Header = () => {
                   {t("header.title")}
                   <span></span>
                 </h1>
-                <p style={{ color: "black" }}>{t("header.subtitle")}</p>
+                <p
+                  style={{
+                    color: "black",
+                    fontSize: "16px",
+                    lineHeight: "1.8",
+                    // margin: "0 auto 25px",
+                    padding: "0 10px",
+                    wordBreak: "keep-all",
+                    maxWidth: "100%",
+                  }}
+                >
+                  {t("header.subtitle")}
+                </p>
                 <a href="#features" className="btn btn-custom btn-lg page-scroll">
                   Learn More
                 </a>
