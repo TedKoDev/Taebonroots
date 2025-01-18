@@ -20,8 +20,9 @@ export const Header = () => {
                     color: "black",
                     fontSize: "16px",
                     lineHeight: "1.8",
-                    // margin: "0 auto 25px",
-                    padding: "0 10px",
+                    margin: "0 auto 25px",
+                    width: "100%",
+                    padding: "0 20px",
                     wordBreak: "keep-all",
                     maxWidth: "100%",
                   }}
